@@ -62,7 +62,7 @@ O **Provador Mágico** é uma plataforma inovadora que permite experimentar roup
 
 ## 💳 Sistema de Créditos
 
-- Ao se cadastrar: **5 créditos gratuitos**
+- Ao se cadastrar: **10 créditos gratuitos**
 - Cada prova virtual: **1 crédito**
 - Modelagem de roupas: **gratuita**
 - Salvar no guarda-roupa: **gratuito**
