@@ -77,23 +77,6 @@ O **Provador Mágico** é uma plataforma inovadora que permite experimentar roup
 - Axios para requisições HTTP
 - React Router para navegação
 
-## 📋 Pré-requisitos
-
-- Node.js (versão 14 ou superior)
-- NPM ou Yarn
-- Navegador web moderno
-
-
-A aplicação estará disponível em `http://localhost:3000`
-
-## 🌐 Deploy
-
-```bash
-# Build para produção
-npm run build
-# ou
-yarn build
-```
 
 ## 📱 Screenshots
 
